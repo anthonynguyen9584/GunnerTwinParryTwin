@@ -1,0 +1,4 @@
+Move with WASD.
+Dash in the direction your moving in
+with right click.
+Avoid enemies and bullets.
